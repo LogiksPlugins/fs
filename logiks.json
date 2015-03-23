@@ -1,0 +1,36 @@
+{
+    "name": "fs",
+    "version": "1.0.0",
+    "status": "",
+    "package":"fs",
+    "type": "module",
+    "app": "*",
+    "privilege": "*",
+    "description": "File browser used to browse by other tools",
+    "keywords": "logiks,modules,fs",
+    "license": "MIT",
+    "marketid": "",
+    "homepage": "https://github.com/LogiksPlugins/fs",
+    "bugs": "https://github.com/LogiksPlugins/fs/issues",
+    "private": false,
+    "permissions": "",
+    "dependencies": {
+        "core": {
+		"max": "3.6.4"
+	}
+    },
+    "directoryMap": {
+        "installer": ".install"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LogiksPlugins/fs.git"
+    },
+    "authors": [
+        {
+            "name": "OpenLogiks Team",
+            "email": "admin@openlogiks.org",
+            "authorid":"olgksadmin"
+        }
+    ]
+}
